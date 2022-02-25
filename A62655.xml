@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Timely advice from the major part of the old souldiers in the army, to all the rest of our fellow souldiers wherein is held forth the politically intended destruction of the whole souldiery by our new masters / from an officer out of Scotland.</title>
+            <author>Officer out of Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62655</idno>
+            <idno type="STC">Wing T1281</idno>
+            <idno type="STC">ESTC R4577</idno>
+            <idno type="EEBO-CITATION">11957691</idno>
+            <idno type="OCLC">ocm 11957691</idno>
+            <idno type="VID">51553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51553)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 518:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Timely advice from the major part of the old souldiers in the army, to all the rest of our fellow souldiers wherein is held forth the politically intended destruction of the whole souldiery by our new masters / from an officer out of Scotland.</title>
+                  <author>Officer out of Scotland.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51553:1"/>
+            <pb facs="tcp:51553:1"/>
+            <p>Timely Advice, From the Major part of the old SOULDIERS In the ARMY, To all the reſt of our Fellow SOULDIERS, Wherein is held forth the Politically intended Deſtruction of the whole SOULDIERY By our new Maſters. From an Officer out of Scotland.</p>
+            <p>Printed in the Year of our Lord, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51553:2"/>
+            <pb n="1" facs="tcp:51553:2"/>
+            <head>Brethren and Fellow-Souldiers,</head>
+            <p>UPon the ſerious and ſober review of all our priſtine magnanimous, and undaunted Actions in the Army in time of Warre, And that while we were all unanimous and zealous for the common good and welfare of this Nation, We were a Ter<g ref="char:EOLhyphen"/>rour to all our Enemies round about, though now become a laughing-ſtock to all our ene<g ref="char:EOLhyphen"/>mies that ſee our inconſtancies, whom no<g ref="char:EOLhyphen"/>thing can pleaſe; but what we cry up to day, we cry down to morrow, onely led there<g ref="char:EOLhyphen"/>unto by the Capricious brains of a few weak ſingle perſons, Who without us, are nothing; yet we looke not into our own Abilities and Power, but like heedleſſe Children caſt our dearly bought Honour at our heeles: So we are emptied from Veſſel to Veſſel, and every day made more and more Slaves to to our own Countrey-men, which is as diſ<g ref="char:EOLhyphen"/>honourable in every true Engliſh man to ſuffer, as it is unworthy in them to impoſe; and yet all muſt be done politically, under pretence of Religion, and the Liberties, and Privi<g ref="char:EOLhyphen"/>ledges of the People, when dayly Experi<g ref="char:EOLhyphen"/>ence ſhewes us, that nothing leſſe is inten<g ref="char:EOLhyphen"/>ded: Is it not then a ſhame the Power and
+<pb n="2" facs="tcp:51553:3"/>change of Government being in us, that we cannot ſee and prevent our own Ruine and Deſtruction? when every Man can clearly diſcern the Face of Fallacies, in the Glaſſe of his own Woes, and that we are headlong running to Confuſion. In the abundance therefore of our zeal and Cordiall Love to<g ref="char:EOLhyphen"/>wards the reſt of You our Fellow-ſufferers, and Souldiers in the Army, We have thought very fit to acquaint you, as well with what we have Diſcovered, and Collected from the Actings of our Superiours, as our reſolutions to let looſe the Raines of our Power and Li<g ref="char:EOLhyphen"/>bertie. For it is not a Time for our Superi<g ref="char:EOLhyphen"/>ours to ſtrive who ſhall be Greateſt, and per<g ref="char:EOLhyphen"/>petuate themſelves a Multitude of Princes, Feeding upon the Ruines of the People, and Fat of the Nation, when We, our Families, Wives, and Children, and all that is neare and deare unto us, may beg, ſtarve, and pe<g ref="char:EOLhyphen"/>riſh: Therefore as ſtout Souldiers, whet and rowſe up your Spirits, Let us not any longer with great Words be over-awed, like Doggs with a Cudgell.</p>
+            <p>It is well known that we are all very much in Arreare of Pay, And that the Monethly Taxes have been paid before-hand, with the the Exciſe in all the Counties, Cuſtomes, De<g ref="char:EOLhyphen"/>linquents Eſtates, beſides many other Ad<g ref="char:EOLhyphen"/>vantages, whereby farre greater ſumms have
+<pb n="3" facs="tcp:51553:3"/>been rayſed, then would ſatisfie all our Ar<g ref="char:EOLhyphen"/>rears, through want whereof, our Wives and Children have been ſo much deſtitute of Bread and Drinke, that we have been forced to ſell and pawn what we had for Bread to ſatisfie their hungery ſtomacks; yet no care or pro<g ref="char:EOLhyphen"/>viſion is made for our payment by our preſent Maſters, who will ſtill exact Taxes, though they diſtract Trading, and make many thouſand Beggers, as well in the City, as Countrey; nor care they how deſpicable, or to what extremities they expoſe us, ſo they make themſelves great.</p>
+            <p>In the time of <hi>Oliver</hi> late Protector, there was conſtantly ſome reaſonable time taken for payment of us: And doe but conſider how carefull was <hi>Richard</hi> the Protector, for paying off all our Arreares to which purpoſe he was very earneſt with the late Parliament, and they thereunto with him did Comply, ſo that we are truely ſenſible to have been paid off cleare, before this time, if they had been ſuffe<g ref="char:EOLhyphen"/>red to ſit, for which we now repent at our own weakneſſe, in ſuffering the Diſſolution thereof, by a few Ambitious ſelf-ended per<g ref="char:EOLhyphen"/>ſons, who dayly ſtudie new Formes of Government thereby to Advance them<g ref="char:EOLhyphen"/>ſelves, though to the ruine of a Nation: When time and experience hath taught all Ages, that a Government in a ſingle perſon
+<pb n="4" facs="tcp:51553:4"/>lawfully Elected, is moſt ſafe, moſt for the eaſe and appeal of the Oppreſſed, moſt Ho<g ref="char:EOLhyphen"/>nourable, moſt Peaceable, moſt Heaven-like; and moſt Conſentaneous to an Engliſh heart.</p>
+            <p>That we well underſtand the Reſolves and Intentions of Parliament, are firſt to ſettle the Militia, as ſtawking Horſes for them, the the better to catch their Game, then after that, either to ſend us beyond Seas, out of our Na<g ref="char:EOLhyphen"/>tive Countrey, to be deſtroyed like Vaga<g ref="char:EOLhyphen"/>bonds in a ſtrange Countrey at their pleaſures, Contrary to the Libertie of Free-born Peo<g ref="char:EOLhyphen"/>ple, or elſe Disband us at Home, and leave us with our Wives and Children to beg our Bread in our own Nation, where we ſhall be quickly deſtroyed and our Poſterities, by ſuch as have been, and are inveterate Ene<g ref="char:EOLhyphen"/>mies to us and the Common-wealth; And which ſhall be all our reward, after ſhedding of ſo much bloud as hath been loſt, for regain<g ref="char:EOLhyphen"/>ing our loſt Liberties; And therefore is it not pertinent we all in time provide for our own ſafetie, which we ſhall never enioy without the Government of a ſingle perſon, our abſo<g ref="char:EOLhyphen"/>lute and chief preſervation?</p>
+            <p>That <hi>Richard</hi> Protector, nominated by his late Father, according to the humble Ad<g ref="char:EOLhyphen"/>vice, Choſen and Proclaimed, by Conſent of Councell, Parliament and Army, is undoubt<g ref="char:EOLhyphen"/>edly
+<pb n="5" facs="tcp:51553:4"/>the Lawfull Succeſſive Governour over theſe Nations, and acknowledged by the ma<g ref="char:EOLhyphen"/>ny Addreſſes from moſt Counties and Cor<g ref="char:EOLhyphen"/>porations in England, and alſo from the Ar<g ref="char:EOLhyphen"/>mies in Scotland and Ireland, looking upon him as their Lawfull and Supreme Gover<g ref="char:EOLhyphen"/>nour, which we are Unanimouſly reſolved to maintain, being well aſſured of the City of Londons Faithfull Complyance with us; And doe therefore require your willingneſs, and undaunted Spirits of Aſſiſtance to joyn with us.</p>
+            <p>That we are not reſolved to paſſe any Mu<g ref="char:EOLhyphen"/>ſters, (though we may draw to the Field the better to be informed of all your freeneſſe, and willingneſſe herein) untill our preſent Maſters ſhall, and have paid all the Arreares due un<g ref="char:EOLhyphen"/>to us.</p>
+            <p>That ſo ſoon as the Lord <hi>Henry Cromwell,</hi> ſhall appear with an Army in England, We are, and ſhall be generally reſolved to joyn with Him, for Re-eſtabliſhing <hi>Richard,</hi> Lord Pro<g ref="char:EOLhyphen"/>tector, in which Reſolution we hope you will be as free to joyn with us as the Citie; And chiefly it being the onely way for all our Ad<g ref="char:EOLhyphen"/>vancements, and Preſervations of our ſelves and you, yours, and your Wives and Children from the intended Deſtructions.</p>
+            <pb n="6" facs="tcp:51553:5"/>
+            <p>And laſtly, The whole Countrie being ge<g ref="char:EOLhyphen"/>rerally ſenſible, our new and preſent Ma<g ref="char:EOLhyphen"/>ſters act no good or ſettlement of Trade in the Common wealth, nor for relief of the Op<g ref="char:EOLhyphen"/>preſſed; We are reſolved to Diſſolve them (without advice or conſent of Officer) at ſuch time as ſhall be concluded upon at our next generall meeting, having many thouſands with and about the Citie in readineſſe to joyn with us; And doe there deſire your Appearance and Compliance at the time, for doth not the power of change of any Government teſt upon us? Then let us act like Men and Chri<g ref="char:EOLhyphen"/>ſtians, not fearing any, ſo ſhall we bring a ſet<g ref="char:EOLhyphen"/>led Government in a ſingle perſon again, and perfect Libertie as Free-born People, which at preſent is enjoyed but by ſome particular perſons.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
